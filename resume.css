@@ -1,0 +1,18 @@
+body {
+  font-family: Georgia;
+  background-color: #c5dff7;
+}
+.work-period {
+  font-style: italic;
+}
+  .company .company-title:{
+    margin-bottom: 0;
+}
+
+.company a {
+  color:blue;
+}
+
+.new-section {
+  font-style: bold;
+}
