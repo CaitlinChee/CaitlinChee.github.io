@@ -5,7 +5,7 @@ body {
 .work-period {
   font-style: italic;
 }
-.company .company-title:{
+.company-title:{
     margin-bottom: 0;
 }
 
@@ -15,4 +15,14 @@ body {
 
 .new-section {
   font-style: bold;
+}
+.name {
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: white;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.h1 {
+  margin-bottom: 10px
 }
